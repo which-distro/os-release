@@ -1,6 +1,6 @@
 # Fedora Linux
 
-## How to differentiate various versions of Fedora
+## How to differentiate between various variants of Fedora
 
 > Through `VARIANT` and `VARIANT_ID`.
 
