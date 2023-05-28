@@ -11,15 +11,15 @@ the directory, unless it does not have its own unique `ID`,
 >
 > Mr.Nobody: NOOOO!!! Do NOT quote me on that!!!!!
 
-in this case, we turn `NAME` into lowercase, replace non-alphabetic characters 
-with `_`, and use this as its directory name.
+in this case, we turn its `NAME` into lowercase, replace non-alphabetic 
+characters with `_`, and use this as the directory name.
 
-For `os-release` files under the distro directory, if this distro is rolling-based
+For `os-release` files under the distro directory, if the distro is rolling-based
 (then there should be ONLY one file), we simply name it with the directory 
 name. Otherwise, we name them with their `VERSION_ID`, if this field is not
-present (God, fix this plz!!!), we name them with increasing number (1, 2, 3...).
+present (God, fix this plz!), we name them with increasing numbers (1, 2, 3...).
 
-For distros that have variants, like `fedora`, we create sub-directories with 
+For distros that have variants, like `fedora`, we create sub-directory with 
 name set to its `VARIANT_ID`.
 
 ## Discontinued Distros
