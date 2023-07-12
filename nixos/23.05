@@ -1,0 +1,14 @@
+BUG_REPORT_URL="https://github.com/NixOS/nixpkgs/issues"
+BUILD_ID="23.05.1906.8163a64662b"
+DOCUMENTATION_URL="https://nixos.org/learn.html"
+HOME_URL="https://nixos.org/"
+ID=nixos
+LOGO="nix-snowflake"
+NAME=NixOS
+PRETTY_NAME="NixOS 23.05 (Stoat)"
+SUPPORT_END="2023-12-31"
+SUPPORT_URL="https://nixos.org/community.html"
+VARIANT_ID=installer
+VERSION="23.05 (Stoat)"
+VERSION_CODENAME=stoat
+VERSION_ID="23.05"
