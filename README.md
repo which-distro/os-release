@@ -14,6 +14,11 @@ the directory, unless it does not have its own unique `ID`,
 in this case, we turn its `NAME` into lowercase, replace non-alphabetic 
 characters with `_`, and use this as the directory name.
 
+> Mr.Nodbody: What if it does not have a unique `NAME` either...
+
+So GREAT! Then let's extrct the alphabetic string from its `PRETTY_NAME` and use 
+it as the directory name.
+
 For `os-release` files under the distro directory, if the distro is rolling-based
 (then there should be ONLY one file), we simply name it with the directory 
 name. Otherwise, we name them with their `VERSION_ID`, if this field is not
