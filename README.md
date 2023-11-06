@@ -34,6 +34,12 @@ Distros that are
 are put in directory 
 [discontinued](https://github.com/which-distro/os-release/tree/main/discontinued).
 
+## Distros other than Linux
+
+When I created this repo, I was thinking about collecting Linux `os-release` files,
+however, with this standard getting more and more popular, OSes other than Linux 
+begin to adopt it, so let's collect them as well.
+
 ## Acknowledgement
 
 * [chef/os_release](https://github.com/chef/os_release)
