@@ -1,0 +1,14 @@
+BUG_REPORT_URL="https://github.com/NixOS/nixpkgs/issues"
+BUILD_ID="23.11.2774.3dc440faeee9"
+DOCUMENTATION_URL="https://nixos.org/learn.html"
+HOME_URL="https://nixos.org/"
+ID=nixos
+LOGO="nix-snowflake"
+NAME=NixOS
+PRETTY_NAME="NixOS 23.11 (Tapir)"
+SUPPORT_END="2024-06-30"
+SUPPORT_URL="https://nixos.org/community.html"
+VARIANT_ID=installer
+VERSION="23.11 (Tapir)"
+VERSION_CODENAME=tapir
+VERSION_ID="23.11"
