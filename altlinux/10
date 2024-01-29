@@ -1,0 +1,12 @@
+NAME="starter kit"
+VERSION="10"
+ID=altlinux
+VERSION_ID=10
+PRETTY_NAME="ALT Starterkit 10 (Hypericum)"
+ANSI_COLOR="1;33"
+CPE_NAME="cpe:/o:alt:starterkit:10"
+BUILD_ID="starter kit 10"
+ALT_BRANCH_ID="p10"
+HOME_URL="http://en.altlinux.org/starterkits"
+BUG_REPORT_URL="https://bugs.altlinux.org/"
+LOGO=altlinux
