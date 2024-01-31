@@ -1,0 +1,12 @@
+NAME="blendOS"
+PRETTY_NAME="blendOS"
+ID=blendos
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://blendos.co/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL=""
+BUG_REPORT_URL=""
+LOGO=blendos-logo
+IMAGE_ID=blendOS
+IMAGE_VERSION=2023.07.03
