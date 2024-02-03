@@ -1,0 +1,13 @@
+NAME="RebornOS Linux"
+PRETTY_NAME="RebornOS Linux"
+ID=rebornos
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://rebornos.org/"
+DOCUMENTATION_URL="https://wiki.rebornos.org/en/home"
+SUPPORT_URL="https://rebornos.org/support/"
+BUG_REPORT_URL="https://rebornos.org/forum"
+LOGO=rebornos
+ID_LIKE=arch
+IMAGE_ID=rebornos_iso
+IMAGE_VERSION=2023.12.08
