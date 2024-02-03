@@ -1,0 +1,9 @@
+PRETTY_NAME="Redox OS 0.8.0"
+NAME="Redox OS"
+VERSION_ID="0.8.0"
+VERSION="0.8.0"
+ID="redox-os"
+
+HOME_URL="https://redox-os.org/"
+DOCUMENTATION_URL="https://redox-os.org/docs/"
+SUPPORT_URL="https://redox-os.org/community/"
