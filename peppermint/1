@@ -1,0 +1,7 @@
+PRETTY_NAME="PeppermintOS"
+NAME="Peppermint"
+ID=peppermint
+VERSION_CODENAME="bookworm"
+HOME_URL="https://peppermintos.com"
+SUPPORT_URL="https://sourceforge.net/p/peppermintos/pepos/"
+BUG_REPORT_URL="https://sourceforge.net/p/peppermintos/pepos/"
