@@ -1,0 +1,8 @@
+NAME="Hyperbola"
+PRETTY_NAME="Hyperbola GNU/Linux-libre"
+ID=hyperbola
+ID_LIKE=arch
+ANSI_COLOR="1;37"
+HOME_URL="https://www.hyperbola.info/"
+SUPPORT_URL="irc://chat.freenode.net#hyperbola"
+BUG_REPORT_URL="https://issues.hyperbola.info/"
