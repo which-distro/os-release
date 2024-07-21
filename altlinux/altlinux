@@ -1,0 +1,12 @@
+NAME="Sisyphus"
+VERSION="20240122"
+ID=altlinux
+VERSION_ID=20240122
+PRETTY_NAME="ALT Regular"
+ANSI_COLOR="1;33"
+CPE_NAME="cpe:/o:alt:sisyphus:20240122"
+BUILD_ID="Sisyphus 20240122"
+ALT_BRANCH_ID="sisyphus"
+HOME_URL="http://en.altlinux.org"
+BUG_REPORT_URL="https://bugs.altlinux.org/"
+LOGO=altlinux
