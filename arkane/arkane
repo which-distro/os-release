@@ -1,0 +1,11 @@
+NAME="Arkane Linux"
+PRETTY_NAME="Arkane Linux"
+ID=arkane
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://arkanelinux.org/"
+SUPPORT_URL="https://github.com/arkanelinux"
+BUG_REPORT_URL="https://github.com/arkanelinux"
+LOGO=arkanelinux-logo
+IMAGE_ID=arkanelinux-arkdep
+IMAGE_VERSION=2024.07.29
