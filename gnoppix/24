@@ -1,0 +1,12 @@
+NAME="Gnoppix"
+VERSION="24"
+ID=gnoppix
+ID_LIKE=gnoppix
+PRETTY_NAME="Gnoppix 24 XFCE"
+VERSION_ID="24"
+HOME_URL="https://www.gnoppix.com/"
+SUPPORT_URL="https://www.gnoppix.com/"
+BUG_REPORT_URL="https://www.gnoppix.com"
+PRIVACY_POLICY_URL="https://www.gnoppix.com/"
+VERSION_CODENAME=bookworm
+UBUNTU_CODENAME=bookworm
