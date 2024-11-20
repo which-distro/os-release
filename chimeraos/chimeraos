@@ -1,0 +1,8 @@
+NAME="ChimeraOS"
+PRETTY_NAME="ChimeraOS"
+ID=chimeraos
+ID_LIKE=arch
+ANSI_COLOR="1;31"
+HOME_URL="https://chimeraos.org"
+DOCUMENTATION_URL="https://chimeraos.org/about"
+BUG_REPORT_URL="https://github.com/ChimeraOS/chimeraos/issues"
