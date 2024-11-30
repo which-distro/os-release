@@ -1,0 +1,11 @@
+NAME=Puppy
+VERSION="23.12"
+ID=debian
+VERSION_ID=23.12
+PRETTY_NAME="BookwormPup32 23.12"
+ANSI_COLOR="0;34"
+CPE_NAME="cpe:/o:puppy:puppy_linux:23.12"
+HOME_URL="http://puppylinux.com/"
+SUPPORT_URL="http://www.murga-linux.com/puppy/index.php"
+BUG_REPORT_URL="https://github.com/puppylinux-woof-CE/woof-CE"
+VERSION_CODENAME=bookworm

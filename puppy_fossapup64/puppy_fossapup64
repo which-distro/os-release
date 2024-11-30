@@ -1,0 +1,10 @@
+NAME=Puppy
+VERSION="9.6"
+ID=puppy_fossapup64
+VERSION_ID=9.6
+PRETTY_NAME="fossapup64 9.6"
+ANSI_COLOR="0;34"
+CPE_NAME="cpe:/o:puppy:puppy_linux:9.6"
+HOME_URL="http://puppylinux.com/"
+SUPPORT_URL="http://www.murga-linux.com/puppy/index.php"
+BUG_REPORT_URL="https://github.com/puppylinux-woof-CE/woof-CE"
