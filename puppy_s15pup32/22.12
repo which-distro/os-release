@@ -1,0 +1,10 @@
+NAME=Puppy
+VERSION="22.12"
+ID=puppy_s15pup32
+VERSION_ID=22.12
+PRETTY_NAME="S15Pup32 22.12"
+ANSI_COLOR="0;34"
+CPE_NAME="cpe:/o:puppy:puppy_linux:22.12"
+HOME_URL="http://puppylinux.com/"
+SUPPORT_URL="http://www.murga-linux.com/puppy/index.php"
+BUG_REPORT_URL="https://github.com/puppylinux-woof-CE/woof-CE"
