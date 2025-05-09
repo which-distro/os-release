@@ -1,0 +1,11 @@
+NAME="SystemRescue"
+ID=sysrescue
+ID_LIKE=arch
+PRETTY_NAME="SystemRescue 12.00"
+VERSION="12.00"
+VERSION_ID="12.00"
+BUILD_ID="2025-03-14"
+ANSI_COLOR="0;31"
+HOME_URL="https://www.system-rescue.org/"
+DOCUMENTATION_URL="https://www.system-rescue.org/manual/"
+BUG_REPORT_URL="https://gitlab.com/systemrescue/systemrescue-sources/-/issues"
