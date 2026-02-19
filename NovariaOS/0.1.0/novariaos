@@ -1,0 +1,7 @@
+NAME=NovariaOS
+VERSION="0.1.0"
+ID=novariaos
+ANSI_COLOR="0;33"
+PRETTY_NAME="NovariaOS 0.1.0-RELEASE"
+HOME_URL="https://novariaos.github.io/"
+BUG_REPORT_URL="https://github.com/novariaos/novariaos-src/issues"
