@@ -1,0 +1,18 @@
+NAME="NurOS"
+PRETTY_NAME="NurOS Juldyz"
+ID=nuros
+ID_LIKE=
+VERSION_ID="rolling"
+VERSION="rolling (juldyz)"
+VERSION_CODENAME=juldyz
+BUILD_ID=rolling
+
+HOME_URL="https://nuros.org"
+DOCUMENTATION_URL="https://docs.nuros.org"
+SUPPORT_URL="https://www.nuros.org/#community"
+BUG_REPORT_URL="https://www.nuros.org/#community"
+
+LOGO=nuros-logo
+ANSI_COLOR="1;34"
+
+CPE_NAME="cpe:/o:nuros:nuros:rolling"
